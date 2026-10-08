@@ -35,6 +35,8 @@ No API keys, no config. Works in any agent.
 
 Prefer manual? Clone it into your agent's skills folder, or download the ZIP from the Code button above.
 
+**Update later:** `npx skills update virat-design` — or `git pull` inside the skill folder.
+
 ## License
 
 MIT — use it anywhere.

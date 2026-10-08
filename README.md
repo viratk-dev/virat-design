@@ -1,70 +1,45 @@
 # virat-design
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-3.0.0-blue)
-![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+A design skill for AI agents that makes premium minimal visuals — social posts, carousels, slide decks, posters, thumbnails, banners, ad creatives. It works like a real designer: it studies your brand, sets an art direction, and only then designs. No templates, no generic AI look.
 
-An AI-agent skill for **world-class graphic design** — a full end-to-end methodology for premium minimal visuals.
+## How it designs
 
-Give this skill to your AI agent, and it designs like a professional design studio: social posts, carousels, **presentations (PPT/slide decks)**, posters, thumbnails, banners, ad creatives, infographics, covers.
-
-**Fixed principles, flexible tokens.** The skill teaches the design system — restraint, whitespace, typography-led hierarchy, human-made quality — and adapts every color and font to *your* brand.
-
-## What it creates
-
-One methodology, every format — social posts, carousels, full slide decks, posters, thumbnails, banners, ad creatives, infographics. Open any file in `preview/` in a browser to see it in action:
-
-- `preview/sample-post.html` — Instagram post, default aesthetic (warm ivory, ink, royal blue)
-- `preview/sample-adapted.html` — same system on a different brand (dark, orange accent)
-- `preview/sample-slides.html` — three 1920×1080 slide designs (title, content, stat)
+1. **It starts from your brand, not a template.** Hand it your colors, fonts, logo — or nothing at all, and it will pick a direction and tell you why.
+2. **Restraint first.** Few colors, big whitespace, one hero per page. It removes before it adds.
+3. **Typography does the talking.** Big confident headlines, quiet labels. Never more than two font families.
+4. **One idea per page.** If a slide or post needs two ideas, it becomes two.
+5. **It checks its own work.** Every piece goes through a quality pass — alignment, spacing, readability — before you ever see it.
+6. **It takes feedback without ego.** Say "something different" and it goes genuinely different, never a remix of the rejected one.
 
 ## Install
 
-**One command — direct connect:**
+Give this sentence to any AI agent:
+
+> Install this skill: https://github.com/viratk-dev/virat-design
+
+Or run this:
+
 ```bash
-git clone https://github.com/viratk-dev/virat-design ~/.claude/skills/virat-design
+npx skills add viratk-dev/virat-design
 ```
-Works with any AI agent that supports skills — just point it to your agent's skills folder (common locations: `~/.claude/skills/`, `~/workspace/skills/`). Restart your agent and the skill is live.
 
-**No terminal? Just say it:**
-> "Install this skill: https://github.com/viratk-dev/virat-design"
+No API keys, no config. Works in any agent.
 
-**Or download ZIP:**
-1. Open [github.com/viratk-dev/virat-design](https://github.com/viratk-dev/virat-design)
-2. Green `<> Code` button → `Download ZIP` → unzip → point your agent to the folder
+Prefer manual? Clone it into your agent's skills folder, or download the ZIP from the Code button above.
 
-No API keys. No config. Then just describe what you want designed:
+## Use
 
-- *"Make an Instagram carousel about 5 AI tools for students"*
-- *"Design a 10-slide pitch deck for my startup, dark theme, green accent"*
-- *"Review this poster and tell me what breaks the design rules"*
+Just describe what you want:
 
-## How it works
+- "Make an Instagram carousel about 5 AI tools for students"
+- "Design a 10-slide pitch deck for my startup, dark theme"
+- "Make a YouTube thumbnail for my video about morning routines"
+- "Review this poster and tell me what to fix"
 
-The skill runs an 8-stage process on every piece — **Brief → Research → Direction → Tokens → Compose → Build → QA → Deliver** — the way a world-class designer works.
+## See it
 
-**Non-negotiables:** color discipline · typography-led hierarchy · one hero per page · 8–10% safe margins · zero gradients/glow/glass · real logos only · nothing ships without QA.
-
-**Flexible:** every color and font adapts to your brand. Defaults (warm ivory `#F6F5F1`, ink `#151515`, royal blue `#334EE8`, Jakarta 800 + Space Mono) apply only when you bring no brand assets.
-
-## What's inside
-
-```
-virat-design/
-├── SKILL.md                  # philosophy, scope, workflow, principles
-├── references/
-│   ├── style-tokens.md       # default tokens + brand-adaptation guide
-│   ├── process.md            # the 8-stage end-to-end process
-│   ├── patterns.md           # 6 layout patterns + formal variant
-│   ├── instagram.md          # post / carousel / story specs
-│   ├── presentations.md      # slide decks: structure, slide types, rules
-│   ├── formats.md            # posters, thumbnails, banners, ads, infographics
-│   └── qa-checklist.md       # mandatory pre-delivery quality gates
-├── preview/                  # sample outputs (open the .html files in a browser)
-├── README.md
-└── LICENSE
-```
+Open any file in `preview/` in a browser — real outputs made with this skill.
 
 ## License
 
-MIT — use it anywhere, for anything.
+MIT — use it anywhere.

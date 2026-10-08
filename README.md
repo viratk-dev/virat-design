@@ -20,21 +20,16 @@ One methodology, every format — social posts, carousels, full slide decks, pos
 
 ## Install
 
-**One command — direct connect (Claude Code):**
+**One command — direct connect:**
 ```bash
 git clone https://github.com/viratk-dev/virat-design ~/.claude/skills/virat-design
 ```
-Done. Restart Claude Code and the skill is live.
+Works with any AI agent that supports skills — just point it to your agent's skills folder (common locations: `~/.claude/skills/`, `~/workspace/skills/`). Restart your agent and the skill is live.
 
-**Muse:**
-```bash
-git clone https://github.com/viratk-dev/virat-design ~/workspace/skills/virat-design
-```
-
-**Any other agent — just say:**
+**No terminal? Just say it:**
 > "Install this skill: https://github.com/viratk-dev/virat-design"
 
-**No terminal? Download ZIP:**
+**Or download ZIP:**
 1. Open [github.com/viratk-dev/virat-design](https://github.com/viratk-dev/virat-design)
 2. Green `<> Code` button → `Download ZIP` → unzip → point your agent to the folder
 

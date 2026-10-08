@@ -27,15 +27,6 @@ No API keys, no config. Works in any agent.
 
 Prefer manual? Clone it into your agent's skills folder, or download the ZIP from the Code button above.
 
-## Use
-
-Just describe what you want:
-
-- "Make an Instagram carousel about 5 AI tools for students"
-- "Design a 10-slide pitch deck for my startup, dark theme"
-- "Make a YouTube thumbnail for my video about morning routines"
-- "Review this poster and tell me what to fix"
-
 ## License
 
 MIT — use it anywhere.

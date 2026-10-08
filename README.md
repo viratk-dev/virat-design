@@ -36,10 +36,6 @@ Just describe what you want:
 - "Make a YouTube thumbnail for my video about morning routines"
 - "Review this poster and tell me what to fix"
 
-## See it
-
-Open any file in `preview/` in a browser — real outputs made with this skill.
-
 ## License
 
 MIT — use it anywhere.

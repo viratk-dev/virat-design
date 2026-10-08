@@ -11,6 +11,14 @@ A design skill for AI agents that makes premium minimal visuals — social posts
 5. **It checks its own work.** Every piece goes through a quality pass — alignment, spacing, readability — before you ever see it.
 6. **It takes feedback without ego.** Say "something different" and it goes genuinely different, never a remix of the rejected one.
 
+## Capabilities
+
+**Create** — social posts, carousels, stories, slide decks, posters, flyers, thumbnails, banners, ad creatives, infographics, covers, certificates.
+
+**Adapt** — hand it your brand (colors, fonts, logo) and every piece follows it. No brand assets? It sets its own art direction and tells you why.
+
+**Review** — point it at any existing design and it will tell you exactly what's wrong and how to fix it.
+
 ## Install
 
 Give this sentence to any AI agent:

@@ -19,6 +19,14 @@ A design skill for AI agents that makes premium minimal visuals — social posts
 
 **Review** — point it at any existing design and it will tell you exactly what's wrong and how to fix it.
 
+## Capabilities
+
+**Create** — social posts, carousels, stories, slide decks, posters, flyers, thumbnails, banners, ad creatives, infographics, covers, certificates.
+
+**Adapt** — hand it your brand (colors, fonts, logo) and every piece follows it. No brand assets? It sets its own art direction and tells you why.
+
+**Review** — point it at any existing design and it will tell you exactly what's wrong and how to fix it.
+
 ## Install
 
 Give this sentence to any AI agent:

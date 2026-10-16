@@ -1,3 +1,5 @@
+
+
 ---
 name: virat-design
 description: "World-class graphic design skill: full end-to-end methodology for premium minimal design — social posts, carousels, presentations (PPT/slide decks), posters, thumbnails, banners, ad creatives, infographics, covers. Fixed design principles with fully adaptable tokens — colors and fonts adjust to the user's brand. Use when creating, art-directing, or reviewing any visual design."
@@ -123,3 +125,7 @@ Minimum readable body at 1080 wide: 32px. Below that, cut words instead of shrin
 - Not a logo generator — it art-directs layouts; brand marks come from official sources.
 - Not a photo editor — it composes designed graphics.
 - Not a fixed template — a methodology that adapts to any brand.
+## Available connectors
+
+Use `muse.connector_search` to find the current connector docs before following
+recovered instructions.
